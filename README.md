@@ -13,12 +13,12 @@ It showcases my skills, projects, and experiences in a clean and responsive layo
 - HTML5  
 - CSS3  
 
-# Live Demo: https://temmydee003.github.io/Portfolio/
+# Live Demo: https://temmydee-dev.github.io/Portfolio/
 
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/Temmydee003/Portfolio.git
+git clone https://github.com/temmydee-dev/Portfolio.git
 
 # Navigate to the project directory
 cd profile-Portfolio(HTML-CSS)
